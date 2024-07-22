@@ -37,8 +37,8 @@ pip install -r requirements.txt
 
 3. Prepare the necessary model files:
    - Whisper model
-   - TTS model
-   - Large language model (e.g., "meta-llama/Meta-Llama-3-8b" from Huggingface)
+   - [TTS model](https://github.com/coqui-ai/TTS/releases/tag/v0.6.1_models)
+   - Large language model (e.g., "[meta-llama/Meta-Llama-3-8b](https://huggingface.co/meta-llama/Meta-Llama-3-8B)" from Huggingface)
 
 4. Update the `backend.py` file with the paths to your models if needed.
 
