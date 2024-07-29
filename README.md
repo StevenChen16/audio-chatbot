@@ -25,7 +25,7 @@ This project implements an audio-based chatbot that allows users to interact wit
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/audio-chatbot.git
+git clone https://github.com/stevenchen16/audio-chatbot.git
 cd audio-chatbot
 ```
 
