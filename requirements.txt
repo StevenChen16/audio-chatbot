@@ -5,3 +5,4 @@ llamafactory
 TTS
 gradio
 requests
+transformers==4.43.2
